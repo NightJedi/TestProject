@@ -1,0 +1,34 @@
+{
+    "name": "Player",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "57010872-b998-451a-a176-63d407726255",
+            "actions": [
+                {
+                    "name": "FIRE!!!!!",
+                    "type": "Button",
+                    "id": "f8051bce-aba6-409d-a576-1078bc7d201b",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "8ab10fc0-47ee-4218-8360-bb9717f0cdb0",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "FIRE!!!!!",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
