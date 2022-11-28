@@ -11,7 +11,7 @@ public class PlayerController : MonoBehaviour
     public PlayerInputActions playerControls;
 
 
-    Vector2 moveDirection = Vector3.zero;
+    Vector3 moveDirection = Vector3.zero;
     private InputAction move;
 
 
